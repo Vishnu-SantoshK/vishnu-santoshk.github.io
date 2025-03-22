@@ -1,2 +1,2 @@
-# vishnusk.github.io
+# Hi
 A personal website and blog
